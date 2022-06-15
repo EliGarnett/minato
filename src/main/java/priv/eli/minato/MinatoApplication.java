@@ -2,10 +2,9 @@ package priv.eli.minato;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @SpringBootApplication
-@EnableAspectJAutoProxy
+//@EnableAspectJAutoProxy
 public class MinatoApplication {
 
     public static void main(String[] args) {
